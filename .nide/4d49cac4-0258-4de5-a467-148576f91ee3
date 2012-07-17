@@ -1,0 +1,8 @@
+{
+    "name": "streetbase",
+    "description": "Streetbase",
+    "version": "0.1.0",
+    "author": "Ryan Hamilton-Schumacher",
+    "dependencies": {},
+    "devDependencies": {}
+}
